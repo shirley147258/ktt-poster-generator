@@ -1,0 +1,8 @@
+# 发布边界：以下目录永不进 git，因此也永不会出现在 GitHub Pages 上
+work/
+.workbuddy/
+
+# 系统与编辑器残留
+.DS_Store
+Thumbs.db
+desktop.ini
